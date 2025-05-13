@@ -1,24 +1,20 @@
-🐍 Python Practice Repository
-Welcome to my Python Practice Repository!
+# 🐍 Python Practice Repository
+
+Welcome to my **Python Practice Repository**!  
 This repository is a collection of beginner to intermediate-level Python programs and exercises that I’ve solved as part of my journey to strengthen Python programming fundamentals.
 
-🚀 What You'll Find Here
-✅ Basic Python Programs – conditionals, loops, functions, recursion,Data Structures(List,Tuples,Set,Dictionary)
+## 🚀 What You'll Find Here
 
-🧮 Mathematical Problems – number theory, prime checking, factorials, etc.
+- ✅ **Basic Python Programs** – conditionals, loops, functions, recursion ,Data Structures(List,Tuples,Set,Dictionary)
+- 🧮 **Mathematical Problems** – number theory, prime checking, factorials, etc.  
+- 📋 **List and Dictionary Exercises** – manipulation, sorting, filtering  
+- 📐 **String Handling** – slicing, formatting, palindrome checks  
+- 🔢 **Pattern Printing** – stars, numbers, pyramids  
+- 📦 **Modules & Libraries** – usage of built-in libraries like `math`, `random`, `datetime`, and more
 
-📋 List and Dictionary Exercises – manipulation, sorting, filtering
+## 📁 Folder Structure
 
-📐 String Handling – slicing, formatting, palindrome checks
-
-🔢 Pattern Printing – stars, numbers, pyramids
-
-📦 Modules & Libraries – usage of built-in libraries like math, random, datetime, and more
-
-📁 Folder Structure
-bash
-Copy
-Edit
+```bash
 Python/
 ├── basics/
 ├── loops/
@@ -29,50 +25,52 @@ Python/
 ├── lists_dicts/
 ├── modules/
 └── README.md
-Each directory focuses on a specific topic with clean and well-commented code examples.
+```
 
-🧠 Why This Repository?
-As an aspiring Data Scientist and Machine Learning Engineer, mastering Python is a foundational skill. This repo showcases my consistent practice and problem-solving approach while also serving as a resource for others looking to learn Python step-by-step.
+> Each directory focuses on a specific topic with clean and well-commented code examples.
 
-🔧 Tech Stack
-Language: Python 3.x
+## 🧠 Why This Repository?
 
-Tools: VS Code, Jupyter Notebook, Git
+As an aspiring Data Scientist and Machine Learning Engineer, mastering Python is a **foundational skill**. This repo showcases my consistent practice and problem-solving approach while also serving as a resource for others looking to learn Python step-by-step.
 
-🗂️ How to Use
-Clone this repo
+## 🔧 Tech Stack
 
-bash
-Copy
-Edit
-git clone https://github.com/shivam-kr935/Python.git
-Navigate to any folder
+- Language: **Python 3.x**
+- Tools: VS Code, Jupyter Notebook, Git
 
-Open the .py files in your favorite code editor
+## 🗂️ How to Use
 
-Run the code and try modifying it to enhance your understanding
+1. **Clone this repo**  
+   ```bash
+   git clone https://github.com/shivam-kr935/Python.git
+   ```
+2. **Navigate to any folder**
+3. Open the `.py` files in your favorite code editor
+4. Run the code and try modifying it to enhance your understanding
 
-🌟 Future Plans
-Add problem statements above each solution
+## 🌟 Future Plans
 
-Incorporate input/output examples
+- Add problem statements above each solution  
+- Incorporate input/output examples  
+- Include Jupyter Notebook versions for interactivity  
+- Tag each program by difficulty level  
 
-Include Jupyter Notebook versions for interactivity
+## 🤝 Contributing
 
-Tag each program by difficulty level
-
-🤝 Contributing
 Want to add your own challenges or improve the code? Contributions are welcome!
 
-Fork the repo
+1. Fork the repo
+2. Make your changes
+3. Submit a Pull Request
 
-Make your changes
+---
 
-Submit a Pull Request
+## 📬 Contact
 
-📬 Contact
-Shivam Kumar
-📧 Email
-🔗 LinkedIn
+**Shivam Kumar**  
+📧 [Email](mailto:shivamkr935@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivam-kr935/)  
+
+---
 
 Give this repo a ⭐ if you found it helpful! Happy Coding! 🙌
